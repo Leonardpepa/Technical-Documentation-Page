@@ -10,7 +10,7 @@
   overflow-y: none;
 }
 
-#navBar {
+#navbar {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,7 +23,7 @@
   font-size: x-large;
 }
 
-#navBar hr {
+#navbar hr {
   width: 100%;
 }
 
